@@ -11,8 +11,8 @@ import {
 /* ============================================================
    CONSTANTS
 ============================================================ */
-const CORE_TEAM = ["Craig", "Jamie", "Johnny", "Lar", "Shane"];
-const SWEEP_TEAM = ["Bradley", "John", "Keith", "Ross"];
+const CORE_TEAM = ["Craig", "Jamie", "John", "Johnny", "Lar", "Shane"];
+const SWEEP_TEAM = ["Bradley", "Keith", "Ross"];
 
 // Rank tracking
 let lastRankings = { CORE: {}, SWEEP: {} };
